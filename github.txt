@@ -1,1 +1,9 @@
-"hello github" 
+This file contains the github topics that I learned:
+Basic github concepts like : add, commit, push, pull, local, remote etc.
+Branching
+Merging
+Merge conflicts
+Rebase
+Rebase conflict resolution
+Cherry-pick
+
