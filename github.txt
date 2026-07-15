@@ -1,9 +1,14 @@
-This file contains the github topics that I learned:
+This file contains the github topics that I've complete learning:
 Basic github concepts like : add, commit, push, pull, local, remote etc.
 Branching
 Merging
 Merge conflicts
 Rebase
 Rebase conflict resolution
-Cherry-pick
+Cherry-pick ------> use to choose a single commit
+Git stash ------->  use to temporarily save uncommited changes
+Git reset : soft mode, mixed mode and hard mode ------> use to change the git history
+
+
+
 
