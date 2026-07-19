@@ -10,5 +10,7 @@ Git stash ------->  use to temporarily save uncommited changes
 Git reset : soft mode, mixed mode and hard mode ------> use to change the git history
 
 
+git revert ------> It revert changes without deleting the history (just undo the latest hitory)
+git restore ------> modern version of git checkout which restore the file before changes made
 
 
